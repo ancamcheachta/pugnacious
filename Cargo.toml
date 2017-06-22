@@ -1,0 +1,7 @@
+[package]
+name = "pugnacious"
+version = "0.1.0"
+authors = ["An Camchéachta"]
+repository = "https://github.com/ancamcheachta/pugnacious"
+licence = "MIT"
+[dependencies]
